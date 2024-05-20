@@ -22,7 +22,7 @@ env:
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
   # CHANGE THE IMAGE NAME HERE
-  IMAGE_NAME: Antcating/SeismContainer
+  IMAGE_NAME: antcating/seism-container
 
 jobs:
   build-centos:
